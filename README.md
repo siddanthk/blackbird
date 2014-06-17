@@ -1,0 +1,4 @@
+blackbird
+=========
+
+Blackbird JavaScript Library
